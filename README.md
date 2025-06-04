@@ -1,2 +1,2 @@
 # ProjectMars
-Project Mars Manual Testing Task 1
+Project Mars On Boarding Tasks
